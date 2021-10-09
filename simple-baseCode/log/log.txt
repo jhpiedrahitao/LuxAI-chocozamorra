@@ -1,0 +1,2880 @@
+Ronda: 0
+
+Ronda: 0
+
+Ronda: 1
+
+Ronda: 1
+
+Ronda: 2
+
+Ronda: 2
+
+Ronda: 3
+
+Ronda: 3
+
+Ronda: 4
+
+Ronda: 4
+
+Ronda: 5
+
+Ronda: 5
+
+Ronda: 6
+
+Ronda: 6
+
+Ronda: 7
+
+Ronda: 7
+
+Ronda: 8
+
+Ronda: 8
+
+Ronda: 9
+
+Ronda: 9
+
+Ronda: 10
+
+Ronda: 10
+
+Ronda: 11
+
+Ronda: 11
+
+Ronda: 12
+
+Ronda: 12
+
+Ronda: 13
+
+Ronda: 13
+
+Ronda: 14
+
+Ronda: 14
+
+Ronda: 15
+
+Ronda: 15
+
+Ronda: 16
+
+Ronda: 16
+
+Ronda: 17
+
+Ronda: 17
+
+Ronda: 18
+
+Ronda: 18
+
+Ronda: 19
+
+Ronda: 19
+
+Ronda: 20
+
+Ronda: 20
+
+Ronda: 21
+
+Ronda: 21
+
+Ronda: 22
+
+Ronda: 22
+
+Ronda: 23
+
+Ronda: 23
+
+Ronda: 24
+
+Ronda: 24
+
+Ronda: 25
+
+Ronda: 25
+
+Ronda: 26
+
+Ronda: 26
+
+Ronda: 27
+
+Ronda: 27
+
+Ronda: 28
+
+Ronda: 28
+
+Ronda: 29
+
+Ronda: 29
+
+Ronda: 30
+
+Ronda: 30
+
+Ronda: 31
+
+Ronda: 31
+
+Ronda: 32
+
+Ronda: 32
+
+Ronda: 33
+
+Ronda: 33
+
+Ronda: 34
+
+Ronda: 34
+
+Ronda: 35
+
+Ronda: 35
+
+Ronda: 36
+
+Ronda: 36
+
+Ronda: 37
+
+Ronda: 37
+
+Ronda: 38
+
+Ronda: 38
+
+Ronda: 39
+
+Ronda: 39
+
+Ronda: 40
+
+Ronda: 40
+
+Ronda: 41
+
+Ronda: 41
+
+Ronda: 42
+
+Ronda: 42
+
+Ronda: 43
+
+Ronda: 43
+
+Ronda: 44
+
+Ronda: 44
+
+Ronda: 45
+
+Ronda: 45
+
+Ronda: 46
+
+Ronda: 46
+
+Ronda: 47
+
+Ronda: 47
+
+Ronda: 48
+
+Ronda: 48
+
+Ronda: 49
+
+Ronda: 49
+
+Ronda: 50
+
+Ronda: 50
+
+Ronda: 51
+
+Ronda: 51
+
+Ronda: 52
+
+Ronda: 52
+
+Ronda: 53
+
+Ronda: 53
+
+Ronda: 54
+
+Ronda: 54
+
+Ronda: 55
+
+Ronda: 55
+
+Ronda: 56
+
+Ronda: 56
+
+Ronda: 57
+
+Ronda: 57
+
+Ronda: 58
+
+Ronda: 58
+
+Ronda: 59
+
+Ronda: 59
+
+Ronda: 60
+
+Ronda: 60
+
+Ronda: 61
+
+Ronda: 61
+
+Ronda: 62
+
+Ronda: 62
+
+Ronda: 63
+
+Ronda: 63
+
+Ronda: 64
+
+Ronda: 64
+
+Ronda: 65
+
+Ronda: 65
+
+Ronda: 66
+
+Ronda: 66
+
+Ronda: 67
+
+Ronda: 67
+
+Ronda: 68
+
+Ronda: 68
+
+Ronda: 69
+
+Ronda: 69
+
+Ronda: 70
+
+Ronda: 70
+
+Ronda: 71
+
+Ronda: 71
+
+Ronda: 72
+
+Ronda: 72
+
+Ronda: 73
+
+Ronda: 73
+
+Ronda: 74
+
+Ronda: 74
+
+Ronda: 75
+
+Ronda: 75
+
+Ronda: 76
+
+Ronda: 76
+
+Ronda: 77
+
+Ronda: 77
+
+Ronda: 78
+
+Ronda: 78
+
+Ronda: 79
+
+Ronda: 79
+
+Ronda: 80
+
+Ronda: 80
+
+Ronda: 81
+
+Ronda: 81
+
+Ronda: 82
+
+Ronda: 82
+
+Ronda: 83
+
+Ronda: 83
+
+Ronda: 84
+
+Ronda: 84
+
+Ronda: 85
+
+Ronda: 85
+
+Ronda: 86
+
+Ronda: 86
+
+Ronda: 87
+
+Ronda: 87
+
+Ronda: 88
+
+Ronda: 88
+
+Ronda: 89
+
+Ronda: 89
+
+Ronda: 90
+
+Ronda: 90
+
+Ronda: 91
+
+Ronda: 91
+
+Ronda: 92
+
+Ronda: 92
+
+Ronda: 93
+
+Ronda: 93
+
+Ronda: 94
+
+Ronda: 94
+
+Ronda: 95
+
+Ronda: 95
+
+Ronda: 96
+
+Ronda: 96
+
+Ronda: 97
+
+Ronda: 97
+
+Ronda: 98
+
+Ronda: 98
+
+Ronda: 99
+
+Ronda: 99
+
+Ronda: 100
+
+Ronda: 100
+
+Ronda: 101
+
+Ronda: 101
+
+Ronda: 102
+
+Ronda: 102
+
+Ronda: 103
+
+Ronda: 103
+
+Ronda: 104
+
+Ronda: 104
+
+Ronda: 105
+
+Ronda: 105
+
+Ronda: 106
+
+Ronda: 106
+
+Ronda: 107
+
+Ronda: 107
+
+Ronda: 108
+
+Ronda: 108
+
+Ronda: 109
+
+Ronda: 109
+
+Ronda: 110
+
+Ronda: 110
+
+Ronda: 111
+
+Ronda: 111
+
+Ronda: 112
+
+Ronda: 112
+
+Ronda: 113
+
+Ronda: 113
+
+Ronda: 114
+
+Ronda: 114
+
+Ronda: 115
+
+Ronda: 115
+
+Ronda: 116
+
+Ronda: 116
+
+Ronda: 117
+
+Ronda: 117
+
+Ronda: 118
+
+Ronda: 118
+
+Ronda: 119
+
+Ronda: 119
+
+Ronda: 120
+
+Ronda: 120
+
+Ronda: 121
+
+Ronda: 121
+
+Ronda: 122
+
+Ronda: 122
+
+Ronda: 123
+
+Ronda: 123
+
+Ronda: 124
+
+Ronda: 124
+
+Ronda: 125
+
+Ronda: 125
+
+Ronda: 126
+
+Ronda: 126
+
+Ronda: 127
+
+Ronda: 127
+
+Ronda: 128
+
+Ronda: 128
+
+Ronda: 129
+
+Ronda: 129
+
+Ronda: 130
+
+Ronda: 130
+
+Ronda: 131
+
+Ronda: 131
+
+Ronda: 132
+
+Ronda: 132
+
+Ronda: 133
+
+Ronda: 133
+
+Ronda: 134
+
+Ronda: 134
+
+Ronda: 135
+
+Ronda: 135
+
+Ronda: 136
+
+Ronda: 136
+
+Ronda: 137
+
+Ronda: 137
+
+Ronda: 138
+
+Ronda: 138
+
+Ronda: 139
+
+Ronda: 139
+
+Ronda: 140
+
+Ronda: 140
+
+Ronda: 141
+
+Ronda: 141
+
+Ronda: 142
+
+Ronda: 142
+
+Ronda: 143
+
+Ronda: 143
+
+Ronda: 144
+
+Ronda: 144
+
+Ronda: 145
+
+Ronda: 145
+
+Ronda: 146
+
+Ronda: 146
+
+Ronda: 147
+
+Ronda: 147
+
+Ronda: 148
+
+Ronda: 148
+
+Ronda: 149
+
+Ronda: 149
+
+Ronda: 150
+
+Ronda: 150
+
+Ronda: 151
+
+Ronda: 151
+
+Ronda: 152
+
+Ronda: 152
+
+Ronda: 153
+
+Ronda: 153
+
+Ronda: 154
+
+Ronda: 154
+
+Ronda: 155
+
+Ronda: 155
+
+Ronda: 156
+
+Ronda: 156
+
+Ronda: 157
+
+Ronda: 157
+
+Ronda: 158
+
+Ronda: 158
+
+Ronda: 159
+
+Ronda: 159
+
+Ronda: 160
+
+Ronda: 160
+
+Ronda: 161
+
+Ronda: 161
+
+Ronda: 162
+
+Ronda: 162
+
+Ronda: 163
+
+Ronda: 163
+
+Ronda: 164
+
+Ronda: 164
+
+Ronda: 165
+
+Ronda: 165
+
+Ronda: 166
+
+Ronda: 166
+
+Ronda: 167
+
+Ronda: 167
+
+Ronda: 168
+
+Ronda: 168
+
+Ronda: 169
+
+Ronda: 169
+
+Ronda: 170
+
+Ronda: 170
+
+Ronda: 171
+
+Ronda: 171
+
+Ronda: 172
+
+Ronda: 172
+
+Ronda: 173
+
+Ronda: 173
+
+Ronda: 174
+
+Ronda: 174
+
+Ronda: 175
+
+Ronda: 175
+
+Ronda: 176
+
+Ronda: 176
+
+Ronda: 177
+
+Ronda: 177
+
+Ronda: 178
+
+Ronda: 178
+
+Ronda: 179
+
+Ronda: 179
+
+Ronda: 180
+
+Ronda: 180
+
+Ronda: 181
+
+Ronda: 181
+
+Ronda: 182
+
+Ronda: 182
+
+Ronda: 183
+
+Ronda: 183
+
+Ronda: 184
+
+Ronda: 184
+
+Ronda: 185
+
+Ronda: 185
+
+Ronda: 186
+
+Ronda: 186
+
+Ronda: 187
+
+Ronda: 187
+
+Ronda: 188
+
+Ronda: 188
+
+Ronda: 189
+
+Ronda: 189
+
+Ronda: 190
+
+Ronda: 190
+
+Ronda: 191
+
+Ronda: 191
+
+Ronda: 192
+
+Ronda: 192
+
+Ronda: 193
+
+Ronda: 193
+
+Ronda: 194
+
+Ronda: 194
+
+Ronda: 195
+
+Ronda: 195
+
+Ronda: 196
+
+Ronda: 196
+
+Ronda: 197
+
+Ronda: 197
+
+Ronda: 198
+
+Ronda: 198
+
+Ronda: 199
+
+Ronda: 199
+
+Ronda: 200
+
+Ronda: 200
+
+Ronda: 201
+
+Ronda: 201
+
+Ronda: 202
+
+Ronda: 202
+
+Ronda: 203
+
+Ronda: 203
+
+Ronda: 204
+
+Ronda: 204
+
+Ronda: 205
+
+Ronda: 205
+
+Ronda: 206
+
+Ronda: 206
+
+Ronda: 207
+
+Ronda: 207
+
+Ronda: 208
+
+Ronda: 208
+
+Ronda: 209
+
+Ronda: 209
+
+Ronda: 210
+
+Ronda: 210
+
+Ronda: 211
+
+Ronda: 211
+
+Ronda: 212
+
+Ronda: 212
+
+Ronda: 213
+
+Ronda: 213
+
+Ronda: 214
+
+Ronda: 214
+
+Ronda: 215
+
+Ronda: 215
+
+Ronda: 216
+
+Ronda: 216
+
+Ronda: 217
+
+Ronda: 217
+
+Ronda: 218
+
+Ronda: 218
+
+Ronda: 219
+
+Ronda: 219
+
+Ronda: 220
+
+Ronda: 220
+
+Ronda: 221
+
+Ronda: 221
+
+Ronda: 222
+
+Ronda: 222
+
+Ronda: 223
+
+Ronda: 223
+
+Ronda: 224
+
+Ronda: 224
+
+Ronda: 225
+
+Ronda: 225
+
+Ronda: 226
+
+Ronda: 226
+
+Ronda: 227
+
+Ronda: 227
+
+Ronda: 228
+
+Ronda: 228
+
+Ronda: 229
+
+Ronda: 229
+
+Ronda: 230
+
+Ronda: 230
+
+Ronda: 231
+
+Ronda: 231
+
+Ronda: 232
+
+Ronda: 232
+
+Ronda: 233
+
+Ronda: 233
+
+Ronda: 234
+
+Ronda: 234
+
+Ronda: 235
+
+Ronda: 235
+
+Ronda: 236
+
+Ronda: 236
+
+Ronda: 237
+
+Ronda: 237
+
+Ronda: 238
+
+Ronda: 238
+
+Ronda: 239
+
+Ronda: 239
+
+Ronda: 240
+
+Ronda: 240
+
+Ronda: 241
+
+Ronda: 241
+
+Ronda: 242
+
+Ronda: 242
+
+Ronda: 243
+
+Ronda: 243
+
+Ronda: 244
+
+Ronda: 244
+
+Ronda: 245
+
+Ronda: 245
+
+Ronda: 246
+
+Ronda: 246
+
+Ronda: 247
+
+Ronda: 247
+
+Ronda: 248
+
+Ronda: 248
+
+Ronda: 249
+
+Ronda: 249
+
+Ronda: 250
+
+Ronda: 250
+
+Ronda: 251
+
+Ronda: 251
+
+Ronda: 252
+
+Ronda: 252
+
+Ronda: 253
+
+Ronda: 253
+
+Ronda: 254
+
+Ronda: 254
+
+Ronda: 255
+
+Ronda: 255
+
+Ronda: 256
+
+Ronda: 256
+
+Ronda: 257
+
+Ronda: 257
+
+Ronda: 258
+
+Ronda: 258
+
+Ronda: 259
+
+Ronda: 259
+
+Ronda: 260
+
+Ronda: 260
+
+Ronda: 261
+
+Ronda: 261
+
+Ronda: 262
+
+Ronda: 262
+
+Ronda: 263
+
+Ronda: 263
+
+Ronda: 264
+
+Ronda: 264
+
+Ronda: 265
+
+Ronda: 265
+
+Ronda: 266
+
+Ronda: 266
+
+Ronda: 267
+
+Ronda: 267
+
+Ronda: 268
+
+Ronda: 268
+
+Ronda: 269
+
+Ronda: 269
+
+Ronda: 270
+
+Ronda: 270
+
+Ronda: 271
+
+Ronda: 271
+
+Ronda: 272
+
+Ronda: 272
+
+Ronda: 273
+
+Ronda: 273
+
+Ronda: 274
+
+Ronda: 274
+
+Ronda: 275
+
+Ronda: 275
+
+Ronda: 276
+
+Ronda: 276
+
+Ronda: 277
+
+Ronda: 277
+
+Ronda: 278
+
+Ronda: 278
+
+Ronda: 279
+
+Ronda: 279
+
+Ronda: 280
+
+Ronda: 280
+
+Ronda: 281
+
+Ronda: 281
+
+Ronda: 282
+
+Ronda: 282
+
+Ronda: 283
+
+Ronda: 283
+
+Ronda: 284
+
+Ronda: 284
+
+Ronda: 285
+
+Ronda: 285
+
+Ronda: 286
+
+Ronda: 286
+
+Ronda: 287
+
+Ronda: 287
+
+Ronda: 288
+
+Ronda: 288
+
+Ronda: 289
+
+Ronda: 289
+
+Ronda: 290
+
+Ronda: 290
+
+Ronda: 291
+
+Ronda: 291
+
+Ronda: 292
+
+Ronda: 292
+
+Ronda: 293
+
+Ronda: 293
+
+Ronda: 294
+
+Ronda: 294
+
+Ronda: 295
+
+Ronda: 295
+
+Ronda: 296
+
+Ronda: 296
+
+Ronda: 297
+
+Ronda: 297
+
+Ronda: 298
+
+Ronda: 298
+
+Ronda: 299
+
+Ronda: 299
+
+Ronda: 300
+
+Ronda: 300
+
+Ronda: 301
+
+Ronda: 301
+
+Ronda: 302
+
+Ronda: 302
+
+Ronda: 303
+
+Ronda: 303
+
+Ronda: 304
+
+Ronda: 304
+
+Ronda: 305
+
+Ronda: 305
+
+Ronda: 306
+
+Ronda: 306
+
+Ronda: 307
+
+Ronda: 307
+
+Ronda: 308
+
+Ronda: 308
+
+Ronda: 309
+
+Ronda: 309
+
+Ronda: 310
+
+Ronda: 310
+
+Ronda: 311
+
+Ronda: 311
+
+Ronda: 312
+
+Ronda: 312
+
+Ronda: 313
+
+Ronda: 313
+
+Ronda: 314
+
+Ronda: 314
+
+Ronda: 315
+
+Ronda: 315
+
+Ronda: 316
+
+Ronda: 316
+
+Ronda: 317
+
+Ronda: 317
+
+Ronda: 318
+
+Ronda: 318
+
+Ronda: 319
+
+Ronda: 319
+
+Ronda: 320
+
+Ronda: 320
+
+Ronda: 321
+
+Ronda: 321
+
+Ronda: 322
+
+Ronda: 322
+
+Ronda: 323
+
+Ronda: 323
+
+Ronda: 324
+
+Ronda: 324
+
+Ronda: 325
+
+Ronda: 325
+
+Ronda: 326
+
+Ronda: 326
+
+Ronda: 327
+
+Ronda: 327
+
+Ronda: 328
+
+Ronda: 328
+
+Ronda: 329
+
+Ronda: 329
+
+Ronda: 330
+
+Ronda: 330
+
+Ronda: 331
+
+Ronda: 331
+
+Ronda: 332
+
+Ronda: 332
+
+Ronda: 333
+
+Ronda: 333
+
+Ronda: 334
+
+Ronda: 334
+
+Ronda: 335
+
+Ronda: 335
+
+Ronda: 336
+
+Ronda: 336
+
+Ronda: 337
+
+Ronda: 337
+
+Ronda: 338
+
+Ronda: 338
+
+Ronda: 339
+
+Ronda: 339
+
+Ronda: 340
+
+Ronda: 340
+
+Ronda: 341
+
+Ronda: 341
+
+Ronda: 342
+
+Ronda: 342
+
+Ronda: 343
+
+Ronda: 343
+
+Ronda: 344
+
+Ronda: 344
+
+Ronda: 345
+
+Ronda: 345
+
+Ronda: 346
+
+Ronda: 346
+
+Ronda: 347
+
+Ronda: 347
+
+Ronda: 348
+
+Ronda: 348
+
+Ronda: 349
+
+Ronda: 349
+
+Ronda: 350
+
+Ronda: 350
+
+Ronda: 351
+
+Ronda: 351
+
+Ronda: 352
+
+Ronda: 352
+
+Ronda: 353
+
+Ronda: 353
+
+Ronda: 354
+
+Ronda: 354
+
+Ronda: 355
+
+Ronda: 355
+
+Ronda: 356
+
+Ronda: 356
+
+Ronda: 357
+
+Ronda: 357
+
+Ronda: 358
+
+Ronda: 358
+
+Ronda: 359
+
+Ronda: 359
+
+Ronda: 0
+
+Ronda: 0
+
+Ronda: 1
+
+Ronda: 1
+
+Ronda: 2
+
+Ronda: 2
+
+Ronda: 3
+
+Ronda: 3
+
+Ronda: 4
+
+Ronda: 4
+
+Ronda: 5
+
+Ronda: 5
+
+Ronda: 6
+
+Ronda: 6
+
+Ronda: 7
+
+Ronda: 7
+
+Ronda: 8
+
+Ronda: 8
+
+Ronda: 9
+
+Ronda: 9
+
+Ronda: 10
+
+Ronda: 10
+
+Ronda: 11
+
+Ronda: 11
+
+Ronda: 12
+
+Ronda: 12
+
+Ronda: 13
+
+Ronda: 13
+
+Ronda: 14
+
+Ronda: 14
+
+Ronda: 15
+
+Ronda: 15
+
+Ronda: 16
+
+Ronda: 16
+
+Ronda: 17
+
+Ronda: 17
+
+Ronda: 18
+
+Ronda: 18
+
+Ronda: 19
+
+Ronda: 19
+
+Ronda: 20
+
+Ronda: 20
+
+Ronda: 21
+
+Ronda: 21
+
+Ronda: 22
+
+Ronda: 22
+
+Ronda: 23
+
+Ronda: 23
+
+Ronda: 24
+
+Ronda: 24
+
+Ronda: 25
+
+Ronda: 25
+
+Ronda: 26
+
+Ronda: 26
+
+Ronda: 27
+
+Ronda: 27
+
+Ronda: 28
+
+Ronda: 28
+
+Ronda: 29
+
+Ronda: 29
+
+Ronda: 30
+
+Ronda: 30
+
+Ronda: 31
+
+Ronda: 31
+
+Ronda: 32
+
+Ronda: 32
+
+Ronda: 33
+
+Ronda: 33
+
+Ronda: 34
+
+Ronda: 34
+
+Ronda: 35
+
+Ronda: 35
+
+Ronda: 36
+
+Ronda: 36
+
+Ronda: 37
+
+Ronda: 37
+
+Ronda: 38
+
+Ronda: 38
+
+Ronda: 39
+
+Ronda: 39
+
+Ronda: 40
+
+Ronda: 40
+
+Ronda: 41
+
+Ronda: 41
+
+Ronda: 42
+
+Ronda: 42
+
+Ronda: 43
+
+Ronda: 43
+
+Ronda: 44
+
+Ronda: 44
+
+Ronda: 45
+
+Ronda: 45
+
+Ronda: 46
+
+Ronda: 46
+
+Ronda: 47
+
+Ronda: 47
+
+Ronda: 48
+
+Ronda: 48
+
+Ronda: 49
+
+Ronda: 49
+
+Ronda: 50
+
+Ronda: 50
+
+Ronda: 51
+
+Ronda: 51
+
+Ronda: 52
+
+Ronda: 52
+
+Ronda: 53
+
+Ronda: 53
+
+Ronda: 54
+
+Ronda: 54
+
+Ronda: 55
+
+Ronda: 55
+
+Ronda: 56
+
+Ronda: 56
+
+Ronda: 57
+
+Ronda: 57
+
+Ronda: 58
+
+Ronda: 58
+
+Ronda: 59
+
+Ronda: 59
+
+Ronda: 60
+
+Ronda: 60
+
+Ronda: 61
+
+Ronda: 61
+
+Ronda: 62
+
+Ronda: 62
+
+Ronda: 63
+
+Ronda: 63
+
+Ronda: 64
+
+Ronda: 64
+
+Ronda: 65
+
+Ronda: 65
+
+Ronda: 66
+
+Ronda: 66
+
+Ronda: 67
+
+Ronda: 67
+
+Ronda: 68
+
+Ronda: 68
+
+Ronda: 69
+
+Ronda: 69
+
+Ronda: 70
+
+Ronda: 70
+
+Ronda: 71
+
+Ronda: 71
+
+Ronda: 72
+
+Ronda: 72
+
+Ronda: 73
+
+Ronda: 73
+
+Ronda: 74
+
+Ronda: 74
+
+Ronda: 75
+
+Ronda: 75
+
+Ronda: 76
+
+Ronda: 76
+
+Ronda: 77
+
+Ronda: 77
+
+Ronda: 78
+
+Ronda: 78
+
+Ronda: 79
+
+Ronda: 79
+
+Ronda: 80
+
+Ronda: 80
+
+Ronda: 81
+
+Ronda: 81
+
+Ronda: 82
+
+Ronda: 82
+
+Ronda: 83
+
+Ronda: 83
+
+Ronda: 84
+
+Ronda: 84
+
+Ronda: 85
+
+Ronda: 85
+
+Ronda: 86
+
+Ronda: 86
+
+Ronda: 87
+
+Ronda: 87
+
+Ronda: 88
+
+Ronda: 88
+
+Ronda: 89
+
+Ronda: 89
+
+Ronda: 90
+
+Ronda: 90
+
+Ronda: 91
+
+Ronda: 91
+
+Ronda: 92
+
+Ronda: 92
+
+Ronda: 93
+
+Ronda: 93
+
+Ronda: 94
+
+Ronda: 94
+
+Ronda: 95
+
+Ronda: 95
+
+Ronda: 96
+
+Ronda: 96
+
+Ronda: 97
+
+Ronda: 97
+
+Ronda: 98
+
+Ronda: 98
+
+Ronda: 99
+
+Ronda: 99
+
+Ronda: 100
+
+Ronda: 100
+
+Ronda: 101
+
+Ronda: 101
+
+Ronda: 102
+
+Ronda: 102
+
+Ronda: 103
+
+Ronda: 103
+
+Ronda: 104
+
+Ronda: 104
+
+Ronda: 105
+
+Ronda: 105
+
+Ronda: 106
+
+Ronda: 106
+
+Ronda: 107
+
+Ronda: 107
+
+Ronda: 108
+
+Ronda: 108
+
+Ronda: 109
+
+Ronda: 109
+
+Ronda: 110
+
+Ronda: 110
+
+Ronda: 111
+
+Ronda: 111
+
+Ronda: 112
+
+Ronda: 112
+
+Ronda: 113
+
+Ronda: 113
+
+Ronda: 114
+
+Ronda: 114
+
+Ronda: 115
+
+Ronda: 115
+
+Ronda: 116
+
+Ronda: 116
+
+Ronda: 117
+
+Ronda: 117
+
+Ronda: 118
+
+Ronda: 118
+
+Ronda: 119
+
+Ronda: 119
+
+Ronda: 120
+
+Ronda: 120
+
+Ronda: 121
+
+Ronda: 121
+
+Ronda: 122
+
+Ronda: 122
+
+Ronda: 123
+
+Ronda: 123
+
+Ronda: 124
+
+Ronda: 124
+
+Ronda: 125
+
+Ronda: 125
+
+Ronda: 126
+
+Ronda: 126
+
+Ronda: 127
+
+Ronda: 127
+
+Ronda: 128
+
+Ronda: 128
+
+Ronda: 129
+
+Ronda: 129
+
+Ronda: 130
+
+Ronda: 130
+
+Ronda: 131
+
+Ronda: 131
+
+Ronda: 132
+
+Ronda: 132
+
+Ronda: 133
+
+Ronda: 133
+
+Ronda: 134
+
+Ronda: 134
+
+Ronda: 135
+
+Ronda: 135
+
+Ronda: 136
+
+Ronda: 136
+
+Ronda: 137
+
+Ronda: 137
+
+Ronda: 138
+
+Ronda: 138
+
+Ronda: 139
+
+Ronda: 139
+
+Ronda: 140
+
+Ronda: 140
+
+Ronda: 141
+
+Ronda: 141
+
+Ronda: 142
+
+Ronda: 142
+
+Ronda: 143
+
+Ronda: 143
+
+Ronda: 144
+
+Ronda: 144
+
+Ronda: 145
+
+Ronda: 145
+
+Ronda: 146
+
+Ronda: 146
+
+Ronda: 147
+
+Ronda: 147
+
+Ronda: 148
+
+Ronda: 148
+
+Ronda: 149
+
+Ronda: 149
+
+Ronda: 150
+
+Ronda: 150
+
+Ronda: 151
+
+Ronda: 151
+
+Ronda: 152
+
+Ronda: 152
+
+Ronda: 153
+
+Ronda: 153
+
+Ronda: 154
+
+Ronda: 154
+
+Ronda: 155
+
+Ronda: 155
+
+Ronda: 156
+
+Ronda: 156
+
+Ronda: 157
+
+Ronda: 157
+
+Ronda: 158
+
+Ronda: 158
+
+Ronda: 159
+
+Ronda: 159
+
+Ronda: 160
+
+Ronda: 160
+
+Ronda: 161
+
+Ronda: 161
+
+Ronda: 162
+
+Ronda: 162
+
+Ronda: 163
+
+Ronda: 163
+
+Ronda: 164
+
+Ronda: 164
+
+Ronda: 165
+
+Ronda: 165
+
+Ronda: 166
+
+Ronda: 166
+
+Ronda: 167
+
+Ronda: 167
+
+Ronda: 168
+
+Ronda: 168
+
+Ronda: 169
+
+Ronda: 169
+
+Ronda: 170
+
+Ronda: 170
+
+Ronda: 171
+
+Ronda: 171
+
+Ronda: 172
+
+Ronda: 172
+
+Ronda: 173
+
+Ronda: 173
+
+Ronda: 174
+
+Ronda: 174
+
+Ronda: 175
+
+Ronda: 175
+
+Ronda: 176
+
+Ronda: 176
+
+Ronda: 177
+
+Ronda: 177
+
+Ronda: 178
+
+Ronda: 178
+
+Ronda: 179
+
+Ronda: 179
+
+Ronda: 180
+
+Ronda: 180
+
+Ronda: 181
+
+Ronda: 181
+
+Ronda: 182
+
+Ronda: 182
+
+Ronda: 183
+
+Ronda: 183
+
+Ronda: 184
+
+Ronda: 184
+
+Ronda: 185
+
+Ronda: 185
+
+Ronda: 186
+
+Ronda: 186
+
+Ronda: 187
+
+Ronda: 187
+
+Ronda: 188
+
+Ronda: 188
+
+Ronda: 189
+
+Ronda: 189
+
+Ronda: 190
+
+Ronda: 190
+
+Ronda: 191
+
+Ronda: 191
+
+Ronda: 192
+
+Ronda: 192
+
+Ronda: 193
+
+Ronda: 193
+
+Ronda: 194
+
+Ronda: 194
+
+Ronda: 195
+
+Ronda: 195
+
+Ronda: 196
+
+Ronda: 196
+
+Ronda: 197
+
+Ronda: 197
+
+Ronda: 198
+
+Ronda: 198
+
+Ronda: 199
+
+Ronda: 199
+
+Ronda: 200
+
+Ronda: 200
+
+Ronda: 201
+
+Ronda: 201
+
+Ronda: 202
+
+Ronda: 202
+
+Ronda: 203
+
+Ronda: 203
+
+Ronda: 204
+
+Ronda: 204
+
+Ronda: 205
+
+Ronda: 205
+
+Ronda: 206
+
+Ronda: 206
+
+Ronda: 207
+
+Ronda: 207
+
+Ronda: 208
+
+Ronda: 208
+
+Ronda: 209
+
+Ronda: 209
+
+Ronda: 210
+
+Ronda: 210
+
+Ronda: 211
+
+Ronda: 211
+
+Ronda: 212
+
+Ronda: 212
+
+Ronda: 213
+
+Ronda: 213
+
+Ronda: 214
+
+Ronda: 214
+
+Ronda: 215
+
+Ronda: 215
+
+Ronda: 216
+
+Ronda: 216
+
+Ronda: 217
+
+Ronda: 217
+
+Ronda: 218
+
+Ronda: 218
+
+Ronda: 219
+
+Ronda: 219
+
+Ronda: 220
+
+Ronda: 220
+
+Ronda: 221
+
+Ronda: 221
+
+Ronda: 222
+
+Ronda: 222
+
+Ronda: 223
+
+Ronda: 223
+
+Ronda: 224
+
+Ronda: 224
+
+Ronda: 225
+
+Ronda: 225
+
+Ronda: 226
+
+Ronda: 226
+
+Ronda: 227
+
+Ronda: 227
+
+Ronda: 228
+
+Ronda: 228
+
+Ronda: 229
+
+Ronda: 229
+
+Ronda: 230
+
+Ronda: 230
+
+Ronda: 231
+
+Ronda: 231
+
+Ronda: 232
+
+Ronda: 232
+
+Ronda: 233
+
+Ronda: 233
+
+Ronda: 234
+
+Ronda: 234
+
+Ronda: 235
+
+Ronda: 235
+
+Ronda: 236
+
+Ronda: 236
+
+Ronda: 237
+
+Ronda: 237
+
+Ronda: 238
+
+Ronda: 238
+
+Ronda: 239
+
+Ronda: 239
+
+Ronda: 240
+
+Ronda: 240
+
+Ronda: 241
+
+Ronda: 241
+
+Ronda: 242
+
+Ronda: 242
+
+Ronda: 243
+
+Ronda: 243
+
+Ronda: 244
+
+Ronda: 244
+
+Ronda: 245
+
+Ronda: 245
+
+Ronda: 246
+
+Ronda: 246
+
+Ronda: 247
+
+Ronda: 247
+
+Ronda: 248
+
+Ronda: 248
+
+Ronda: 249
+
+Ronda: 249
+
+Ronda: 250
+
+Ronda: 250
+
+Ronda: 251
+
+Ronda: 251
+
+Ronda: 252
+
+Ronda: 252
+
+Ronda: 253
+
+Ronda: 253
+
+Ronda: 254
+
+Ronda: 254
+
+Ronda: 255
+
+Ronda: 255
+
+Ronda: 256
+
+Ronda: 256
+
+Ronda: 257
+
+Ronda: 257
+
+Ronda: 258
+
+Ronda: 258
+
+Ronda: 259
+
+Ronda: 259
+
+Ronda: 260
+
+Ronda: 260
+
+Ronda: 261
+
+Ronda: 261
+
+Ronda: 262
+
+Ronda: 262
+
+Ronda: 263
+
+Ronda: 263
+
+Ronda: 264
+
+Ronda: 264
+
+Ronda: 265
+
+Ronda: 265
+
+Ronda: 266
+
+Ronda: 266
+
+Ronda: 267
+
+Ronda: 267
+
+Ronda: 268
+
+Ronda: 268
+
+Ronda: 269
+
+Ronda: 269
+
+Ronda: 270
+
+Ronda: 270
+
+Ronda: 271
+
+Ronda: 271
+
+Ronda: 272
+
+Ronda: 272
+
+Ronda: 273
+
+Ronda: 273
+
+Ronda: 274
+
+Ronda: 274
+
+Ronda: 275
+
+Ronda: 275
+
+Ronda: 276
+
+Ronda: 276
+
+Ronda: 277
+
+Ronda: 277
+
+Ronda: 278
+
+Ronda: 278
+
+Ronda: 279
+
+Ronda: 279
+
+Ronda: 280
+
+Ronda: 280
+
+Ronda: 281
+
+Ronda: 281
+
+Ronda: 282
+
+Ronda: 282
+
+Ronda: 283
+
+Ronda: 283
+
+Ronda: 284
+
+Ronda: 284
+
+Ronda: 285
+
+Ronda: 285
+
+Ronda: 286
+
+Ronda: 286
+
+Ronda: 287
+
+Ronda: 287
+
+Ronda: 288
+
+Ronda: 288
+
+Ronda: 289
+
+Ronda: 289
+
+Ronda: 290
+
+Ronda: 290
+
+Ronda: 291
+
+Ronda: 291
+
+Ronda: 292
+
+Ronda: 292
+
+Ronda: 293
+
+Ronda: 293
+
+Ronda: 294
+
+Ronda: 294
+
+Ronda: 295
+
+Ronda: 295
+
+Ronda: 296
+
+Ronda: 296
+
+Ronda: 297
+
+Ronda: 297
+
+Ronda: 298
+
+Ronda: 298
+
+Ronda: 299
+
+Ronda: 299
+
+Ronda: 300
+
+Ronda: 300
+
+Ronda: 301
+
+Ronda: 301
+
+Ronda: 302
+
+Ronda: 302
+
+Ronda: 303
+
+Ronda: 303
+
+Ronda: 304
+
+Ronda: 304
+
+Ronda: 305
+
+Ronda: 305
+
+Ronda: 306
+
+Ronda: 306
+
+Ronda: 307
+
+Ronda: 307
+
+Ronda: 308
+
+Ronda: 308
+
+Ronda: 309
+
+Ronda: 309
+
+Ronda: 310
+
+Ronda: 310
+
+Ronda: 311
+
+Ronda: 311
+
+Ronda: 312
+
+Ronda: 312
+
+Ronda: 313
+
+Ronda: 313
+
+Ronda: 314
+
+Ronda: 314
+
+Ronda: 315
+
+Ronda: 315
+
+Ronda: 316
+
+Ronda: 316
+
+Ronda: 317
+
+Ronda: 317
+
+Ronda: 318
+
+Ronda: 318
+
+Ronda: 319
+
+Ronda: 319
+
+Ronda: 320
+
+Ronda: 320
+
+Ronda: 321
+
+Ronda: 321
+
+Ronda: 322
+
+Ronda: 322
+
+Ronda: 323
+
+Ronda: 323
+
+Ronda: 324
+
+Ronda: 324
+
+Ronda: 325
+
+Ronda: 325
+
+Ronda: 326
+
+Ronda: 326
+
+Ronda: 327
+
+Ronda: 327
+
+Ronda: 328
+
+Ronda: 328
+
+Ronda: 329
+
+Ronda: 329
+
+Ronda: 330
+
+Ronda: 330
+
+Ronda: 331
+
+Ronda: 331
+
+Ronda: 332
+
+Ronda: 332
+
+Ronda: 333
+
+Ronda: 333
+
+Ronda: 334
+
+Ronda: 334
+
+Ronda: 335
+
+Ronda: 335
+
+Ronda: 336
+
+Ronda: 336
+
+Ronda: 337
+
+Ronda: 337
+
+Ronda: 338
+
+Ronda: 338
+
+Ronda: 339
+
+Ronda: 339
+
+Ronda: 340
+
+Ronda: 340
+
+Ronda: 341
+
+Ronda: 341
+
+Ronda: 342
+
+Ronda: 342
+
+Ronda: 343
+
+Ronda: 343
+
+Ronda: 344
+
+Ronda: 344
+
+Ronda: 345
+
+Ronda: 345
+
+Ronda: 346
+
+Ronda: 346
+
+Ronda: 347
+
+Ronda: 347
+
+Ronda: 348
+
+Ronda: 348
+
+Ronda: 349
+
+Ronda: 349
+
+Ronda: 350
+
+Ronda: 350
+
+Ronda: 351
+
+Ronda: 351
+
+Ronda: 352
+
+Ronda: 352
+
+Ronda: 353
+
+Ronda: 353
+
+Ronda: 354
+
+Ronda: 354
+
+Ronda: 355
+
+Ronda: 355
+
+Ronda: 356
+
+Ronda: 356
+
+Ronda: 357
+
+Ronda: 357
+
+Ronda: 358
+
+Ronda: 358
+
+Ronda: 359
+
+Ronda: 359
+
